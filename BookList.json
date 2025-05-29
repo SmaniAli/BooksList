@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "title": "Physic 1AM",
+        "url": "https://github.com/SmaniAli/BooksList/raw/refs/heads/main/1AM/1AM.zip",
+        "thumbnail": "https://github.com/SmaniAli/BooksList/blob/main/1AM/1am0.jpg?raw=true",
+        "genre": "1AM"
+    },
+
+    {
+        "id": 2,
+        "title": "Physic 2AM",
+        "url": "https://github.com/SmaniAli/BooksList/raw/refs/heads/main/2AM/2AM.zip",
+        "thumbnail": "https://github.com/SmaniAli/BooksList/blob/main/2AM/2am0.jpg?raw=true",
+        "genre": "2AM"
+    },
+
+    {
+        "id": 3,
+        "title": "Physic 3AM",
+        "url": "https://github.com/SmaniAli/BooksList/raw/refs/heads/main/3AM/3AM.zip",
+        "thumbnail": "https://github.com/SmaniAli/BooksList/blob/main/3AM/3am0.jpg?raw=true",
+        "genre": "3AM"
+    }
+]
